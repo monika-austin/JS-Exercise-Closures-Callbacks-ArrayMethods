@@ -58,7 +58,7 @@ Write a function called `inning` that generates a random number of points that a
 
 function inning(/*Code Here*/){
 
-    /*Code Here*/
+    /*Code Here*/.
 
 }
 
